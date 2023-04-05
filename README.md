@@ -1,5 +1,3 @@
-# pencil_box_listview_task
-
 A new Flutter project.
 
 ## Getting Started
